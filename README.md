@@ -22,7 +22,7 @@ Implementations of standard OS algorithms
     
     [Wikipedia](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem)
 
-- Reader Writer Problem:
+- __Reader Writer Problem:__
     
     There is a shared memory. There are multiple readers and writers. Now, reading and writing should be such that following conditions are satisfied:
     
